@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-20T11:11:27 IST" name="SampleAutomationTest Suite" finished-at="2023-03-20T11:11:35 IST" duration-ms="7941">
+    <groups>
+    </groups>
+    <test started-at="2023-03-20T11:11:27 IST" name="Login to the application with valid credentials sauce50" finished-at="2023-03-20T11:11:35 IST" duration-ms="7941">
+      <class name="helixTest.HelixTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:helixTest.HelixTest@8519cb4]" started-at="2023-03-20T11:11:27 IST" name="setUp" finished-at="2023-03-20T11:11:32 IST" duration-ms="4805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Login_to_the_application_with_valid_credentials()[pri:0, instance:helixTest.HelixTest@8519cb4]" started-at="2023-03-20T11:11:32 IST" name="Login_to_the_application_with_valid_credentials" finished-at="2023-03-20T11:11:34 IST" duration-ms="1930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_to_the_application_with_valid_credentials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:helixTest.HelixTest@8519cb4]" started-at="2023-03-20T11:11:34 IST" name="tearDown" finished-at="2023-03-20T11:11:35 IST" duration-ms="1167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- helixTest.HelixTest -->
+    </test> <!-- Login to the application with valid credentials sauce50 -->
+  </suite> <!-- SampleAutomationTest Suite -->
+</testng-results>
